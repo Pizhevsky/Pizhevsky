@@ -2,9 +2,10 @@
 
 I build product-focused software across frontend, backend, and integration-heavy systems.
 
-The public repos here are selected portfolio examples of the kind of work I’ve done in practice:
+My public repositories are selected portfolio examples of work I have done in practice, with a focus on business rules, system boundaries, real-time behaviour, and maintainable delivery.
 
-- **datachain** — multi-exchange arbitrage MVP integrating 5 exchanges, using a reusable backend abstraction layer and RabbitMQ-connected Python balancing
-- **keyhook_booking** — a TypeScript booking system POC with scheduling logic, concurrency protection, and a React/Express stack
+- **datachain** — multi-exchange arbitrage MVP integrating five exchanges through a reusable backend abstraction layer, with RabbitMQ-connected Python workflows for balancing exchange allocations.
+- **keyhook_booking** — TypeScript booking system POC with scheduling rules, concurrency protection, React, Express, WebSocket updates, and database-backed booking invariants.
+- **keyhook-booking-dotnet-api** — C# / ASP.NET Core backend port of the Keyhook Booking system, compatible with the same React client and focused on timezone-safe availability, conflict prevention, and stronger backend invariants.
 
-I’m particularly interested in full-stack and backend-leaning engineering roles involving scalable systems, platform development, and complex business logic.
+I am particularly interested in full-stack and backend-leaning engineering roles involving scalable systems, platform development, integration work, and complex business logic.
